@@ -372,6 +372,10 @@ For production deployments, implement rate limiting, authentication, audit loggi
 
 ---
 
+
+
+---
+
 ## Contact & Support
 
 **GitHub**: [@ManavGawas/syncora-voice-core](https://github.com/ManavGawas/syncora-voice-core)  
@@ -380,5 +384,3 @@ For production deployments, implement rate limiting, authentication, audit loggi
 ---
 
 **Built for engineers who demand sub-second latency and deterministic state.**
-#   g o - d u p l e x - a i - b r i d g e  
- 
